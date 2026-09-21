@@ -1,2 +1,8 @@
 .DS_Store
 
+# LibreOffice temporary files
+.~lock.*
+
+# LibreOffice documents
+*.odt
+
