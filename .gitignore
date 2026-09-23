@@ -1,8 +1,8 @@
 .DS_Store
 
-# LibreOffice temporary files
+# Ignore LibreOffice documents and temporary files
 .~lock.*
-
-# LibreOffice documents
 *.odt
 
+# Ignore build directories
+build/
