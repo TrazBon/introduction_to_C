@@ -1,4 +1,8 @@
+#MacOS
 .DS_Store
+
+#VS Code
+.vscode
 
 # Ignore LibreOffice documents and temporary files
 .~lock.*
