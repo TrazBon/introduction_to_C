@@ -10,3 +10,6 @@
 
 # Ignore build directories
 build/
+
+# .txt
+*.txt
